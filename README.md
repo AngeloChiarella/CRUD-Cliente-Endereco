@@ -29,7 +29,9 @@
 - Caso seja informado um filtro, retorna todos os objetos relacionadas à aquele filtro.
 - A API conta também com retorno de status para respostas. (201, 200, 404, etc).
 - Tomei a liberdade de anexar a coleção em JSON para testes, contendo todos os caminhos e corpos para requisicoes do projeto.
-- Há disponível documentação em Swagger para melhores análises.
+- Há disponível documentação em Swagger para melhores análises, neste link:
+
+                   http://localhost:8080/swagger-ui/index.html
 
 ## Tecnologias:
 - Java 17
